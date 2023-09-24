@@ -13,11 +13,12 @@ code {
 }
 
 .p1 {
-	background-color: lightblue;
+	background-color: darkslategray;
 }
 
 .theP {
-	text-shadow: 2px 2px white;
+	color: ghostwhite;
+	font-family: "Courier New", Courier, monospace;
 }
 
 .Button {

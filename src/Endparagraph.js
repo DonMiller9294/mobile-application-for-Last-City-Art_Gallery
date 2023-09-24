@@ -3,7 +3,7 @@ import Card from "react-bootstrap/Card";
 function Endparagraph() {
 	return (
 		<Card className="introduction">
-			<Card.Header>Last City Art Gallery</Card.Header>
+			<Card.Header className="thehead">Last City Art Gallery</Card.Header>
 			<Card.Body className="p1">
 				<center>
 					<Card.Text className="theP">
